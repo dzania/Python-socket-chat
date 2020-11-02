@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = '10.0.203.183'
+HOST = '127.0.0.1' 
 PORT = 5060
 DISCONNECT = "q!"
 CONNECTED_CLIENTS = []
